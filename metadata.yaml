@@ -1,5 +1,8 @@
 _repo: Sognando_62721
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 62721-h/images/cover.jpg
 creator:
   author:
     agent_name: Serao, Matilde
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Matilde_Serao
     - https://it.wikipedia.org/wiki/Matilde_Serao
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62721#Sognando
 gutenberg_bookshelf: IT Letteratura
 gutenberg_issued: '2020-07-21'
 gutenberg_type: Text
